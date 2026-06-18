@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "user": "admin",
+    "module": "clientes",
+    "action": "update",
+    "recordId": "OPO",
+    "before": {
+      "id": "OPO",
+      "nombre": "OPO",
+      "externa": false,
+      "comision": 0.005
+    },
+    "after": {
+      "id": "OPO",
+      "nombre": "OPO",
+      "externa": true,
+      "comision": 0.005
+    },
+    "id": "aud_1781815398512_qr331g",
+    "ts": "2026-06-18T20:43:18.512Z"
+  }
+]
