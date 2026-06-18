@@ -74,7 +74,7 @@
   {
     "id": "AVON",
     "nombre": "AVON",
-    "externa": false,
+    "externa": true,
     "comision": 0.00475
   },
   {
