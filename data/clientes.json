@@ -56,7 +56,7 @@
   {
     "id": "OPO",
     "nombre": "OPO",
-    "externa": false,
+    "externa": true,
     "comision": 0.005
   },
   {
