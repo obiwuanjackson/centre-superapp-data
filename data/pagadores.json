@@ -5,11 +5,6 @@
     "comision": 0.0025
   },
   {
-    "id": "PARE",
-    "nombre": "PARE",
-    "comision": 0.004
-  },
-  {
     "id": "Propia",
     "nombre": "Propia",
     "comision": 0
