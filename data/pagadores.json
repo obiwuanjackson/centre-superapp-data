@@ -23,10 +23,5 @@
     "id": "Sin Enviar",
     "nombre": "Sin Enviar",
     "comision": 0
-  },
-  {
-    "id": "OTC_nocom",
-    "nombre": "OTC_nocom",
-    "comision": 0.005
   }
 ]
