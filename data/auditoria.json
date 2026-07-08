@@ -52,5 +52,19 @@
     "after": null,
     "id": "aud_1783549232193_0lw56v",
     "ts": "2026-07-08T22:20:32.193Z"
+  },
+  {
+    "user": "admin",
+    "module": "pagadores",
+    "action": "delete",
+    "recordId": "PARE",
+    "before": {
+      "id": "PARE",
+      "nombre": "PARE",
+      "comision": 0.004
+    },
+    "after": null,
+    "id": "aud_1783549237250_s9pbir",
+    "ts": "2026-07-08T22:20:37.250Z"
   }
 ]
