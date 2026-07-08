@@ -38,5 +38,19 @@
     },
     "id": "aud_1781815408029_b1qlwr",
     "ts": "2026-06-18T20:43:28.029Z"
+  },
+  {
+    "user": "admin",
+    "module": "pagadores",
+    "action": "delete",
+    "recordId": "OTC_nocom",
+    "before": {
+      "id": "OTC_nocom",
+      "nombre": "OTC_nocom",
+      "comision": 0.005
+    },
+    "after": null,
+    "id": "aud_1783549232193_0lw56v",
+    "ts": "2026-07-08T22:20:32.193Z"
   }
 ]
