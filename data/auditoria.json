@@ -155,5 +155,26 @@
     },
     "id": "aud_1783717574047_39pkkz",
     "ts": "2026-07-10T21:06:14.047Z"
+  },
+  {
+    "user": "admin",
+    "module": "operaciones",
+    "action": "create",
+    "recordId": "op_1783723290736_2ejtkl",
+    "before": null,
+    "after": {
+      "fecha": "2026-07-10T22:41",
+      "codigo": "1",
+      "pagoUSD": 10000,
+      "flujo": "Venta",
+      "tipoOperacion": "Efectivo",
+      "createdBy": "admin",
+      "id": "op_1783723290736_2ejtkl",
+      "createdAt": "2026-07-10T22:41:30.736Z",
+      "comisionClienteSnapshot": 0,
+      "comisionPagadorSnapshot": 0
+    },
+    "id": "aud_1783723291873_yh9gri",
+    "ts": "2026-07-10T22:41:31.873Z"
   }
 ]
