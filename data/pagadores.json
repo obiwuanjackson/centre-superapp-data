@@ -13,6 +13,7 @@
   {
     "id": "N/A",
     "nombre": "N/A",
-    "comision": 0
+    "comision": 0,
+    "tipo": "Efectivo"
   }
 ]
