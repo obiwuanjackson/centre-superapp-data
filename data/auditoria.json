@@ -96,66 +96,7 @@
       "nombre": "Propia",
       "comision": 0
     },
-    "id": "aud_1783717556681_xe10bp",
-    "ts": "2026-07-10T21:05:56.681Z"
-  },
-  {
-    "user": "admin",
-    "module": "pagadores",
-    "action": "update",
-    "recordId": "Propia",
-    "before": {
-      "id": "Propia",
-      "nombre": "Propia",
-      "comision": 0
-    },
-    "after": {
-      "id": "Propia",
-      "nombre": "Propia",
-      "comision": 0,
-      "tipo": "Efectivo"
-    },
-    "id": "aud_1783717558436_tz2b6i",
-    "ts": "2026-07-10T21:05:58.436Z"
-  },
-  {
-    "user": "admin",
-    "module": "pagadores",
-    "action": "update",
-    "recordId": "Propia",
-    "before": {
-      "id": "Propia",
-      "nombre": "Propia",
-      "comision": 0,
-      "tipo": "Efectivo"
-    },
-    "after": {
-      "id": "Propia",
-      "nombre": "Propia",
-      "comision": 0,
-      "tipo": "Efectivo"
-    },
-    "id": "aud_1783717559751_hib9ll",
-    "ts": "2026-07-10T21:05:59.751Z"
-  },
-  {
-    "user": "admin",
-    "module": "pagadores",
-    "action": "update",
-    "recordId": "Propia",
-    "before": {
-      "id": "Propia",
-      "nombre": "Propia",
-      "comision": 0,
-      "tipo": "Efectivo"
-    },
-    "after": {
-      "id": "Propia",
-      "nombre": "Propia",
-      "comision": 0,
-      "tipo": "Efectivo"
-    },
-    "id": "aud_1783717561014_cn3kma",
-    "ts": "2026-07-10T21:06:01.014Z"
+    "id": "aud_1783717555186_bf1yry",
+    "ts": "2026-07-10T21:05:55.186Z"
   }
 ]
