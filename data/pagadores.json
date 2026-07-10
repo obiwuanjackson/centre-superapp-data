@@ -7,7 +7,8 @@
   {
     "id": "Propia",
     "nombre": "Propia",
-    "comision": 0
+    "comision": 0,
+    "tipo": "Efectivo"
   },
   {
     "id": "N/A",
