@@ -46543,5 +46543,16 @@
     "createdAt": "2026-07-10T22:41:30.736Z",
     "comisionClienteSnapshot": 0,
     "comisionPagadorSnapshot": 0
+  },
+  {
+    "fecha": "2026-07-10T22:41",
+    "pv": 3290,
+    "flujo": "Venta",
+    "tipoOperacion": "Efectivo",
+    "createdBy": "admin",
+    "id": "op_1783723298137_pphh2m",
+    "createdAt": "2026-07-10T22:41:38.137Z",
+    "comisionClienteSnapshot": 0,
+    "comisionPagadorSnapshot": 0
   }
 ]
