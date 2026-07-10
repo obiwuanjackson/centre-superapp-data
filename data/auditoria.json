@@ -136,5 +136,24 @@
     },
     "id": "aud_1783717572485_itajdr",
     "ts": "2026-07-10T21:06:12.485Z"
+  },
+  {
+    "user": "admin",
+    "module": "pagadores",
+    "action": "update",
+    "recordId": "N/A",
+    "before": {
+      "id": "N/A",
+      "nombre": "N/A",
+      "comision": 0
+    },
+    "after": {
+      "id": "N/A",
+      "nombre": "N/A",
+      "comision": 0,
+      "tipo": "Efectivo"
+    },
+    "id": "aud_1783717574047_39pkkz",
+    "ts": "2026-07-10T21:06:14.047Z"
   }
 ]
