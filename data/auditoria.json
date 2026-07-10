@@ -176,5 +176,25 @@
     },
     "id": "aud_1783723291873_yh9gri",
     "ts": "2026-07-10T22:41:31.873Z"
+  },
+  {
+    "user": "admin",
+    "module": "operaciones",
+    "action": "create",
+    "recordId": "op_1783723298137_pphh2m",
+    "before": null,
+    "after": {
+      "fecha": "2026-07-10T22:41",
+      "pv": 3290,
+      "flujo": "Venta",
+      "tipoOperacion": "Efectivo",
+      "createdBy": "admin",
+      "id": "op_1783723298137_pphh2m",
+      "createdAt": "2026-07-10T22:41:38.137Z",
+      "comisionClienteSnapshot": 0,
+      "comisionPagadorSnapshot": 0
+    },
+    "id": "aud_1783723299201_845sr7",
+    "ts": "2026-07-10T22:41:39.201Z"
   }
 ]
