@@ -80,5 +80,23 @@
     "after": null,
     "id": "aud_1783549243875_n5q3d1",
     "ts": "2026-07-08T22:20:43.875Z"
+  },
+  {
+    "user": "admin",
+    "module": "pagadores",
+    "action": "update",
+    "recordId": "Propia",
+    "before": {
+      "id": "Propia",
+      "nombre": "Propia",
+      "comision": 0
+    },
+    "after": {
+      "id": "Propia",
+      "nombre": "Propia",
+      "comision": 0
+    },
+    "id": "aud_1783717556681_xe10bp",
+    "ts": "2026-07-10T21:05:56.681Z"
   }
 ]
