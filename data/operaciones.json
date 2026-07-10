@@ -46531,5 +46531,17 @@
     "comisionPagadorSnapshot": 0.0025,
     "createdAt": "2026-06-17T00:00:00",
     "createdBy": "import"
+  },
+  {
+    "fecha": "2026-07-10T22:41",
+    "codigo": "1",
+    "pagoUSD": 10000,
+    "flujo": "Venta",
+    "tipoOperacion": "Efectivo",
+    "createdBy": "admin",
+    "id": "op_1783723290736_2ejtkl",
+    "createdAt": "2026-07-10T22:41:30.736Z",
+    "comisionClienteSnapshot": 0,
+    "comisionPagadorSnapshot": 0
   }
 ]
