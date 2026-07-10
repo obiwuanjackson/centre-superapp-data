@@ -117,5 +117,25 @@
     },
     "id": "aud_1783717558436_tz2b6i",
     "ts": "2026-07-10T21:05:58.436Z"
+  },
+  {
+    "user": "admin",
+    "module": "pagadores",
+    "action": "update",
+    "recordId": "Propia",
+    "before": {
+      "id": "Propia",
+      "nombre": "Propia",
+      "comision": 0,
+      "tipo": "Efectivo"
+    },
+    "after": {
+      "id": "Propia",
+      "nombre": "Propia",
+      "comision": 0,
+      "tipo": "Efectivo"
+    },
+    "id": "aud_1783717559751_hib9ll",
+    "ts": "2026-07-10T21:05:59.751Z"
   }
 ]
