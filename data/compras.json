@@ -7,14 +7,5 @@
     "totalCOP": 129000,
     "createdAt": "2026-07-17T22:32:22.677Z",
     "createdBy": "admin"
-  },
-  {
-    "id": "compra_1784327586096_ly22qb",
-    "fecha": "2026-07-17T22:32",
-    "cantidadUSDT": 30175,
-    "precioCompra": 3255,
-    "totalCOP": 98219.625,
-    "createdAt": "2026-07-17T22:33:06.096Z",
-    "createdBy": "admin"
   }
 ]
