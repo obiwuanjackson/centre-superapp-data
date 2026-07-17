@@ -46534,18 +46534,6 @@
   },
   {
     "fecha": "2026-07-10T22:41",
-    "codigo": "1",
-    "pagoUSD": 10000,
-    "flujo": "Venta",
-    "tipoOperacion": "Efectivo",
-    "createdBy": "admin",
-    "id": "op_1783723290736_2ejtkl",
-    "createdAt": "2026-07-10T22:41:30.736Z",
-    "comisionClienteSnapshot": 0,
-    "comisionPagadorSnapshot": 0
-  },
-  {
-    "fecha": "2026-07-10T22:41",
     "pv": 3290,
     "flujo": "Venta",
     "tipoOperacion": "Efectivo",
