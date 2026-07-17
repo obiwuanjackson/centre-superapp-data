@@ -279,5 +279,23 @@
     },
     "id": "aud_1784327586725_o4wsah",
     "ts": "2026-07-17T22:33:06.725Z"
+  },
+  {
+    "user": "admin",
+    "module": "compras",
+    "action": "delete",
+    "recordId": "compra_1784327586096_ly22qb",
+    "before": {
+      "id": "compra_1784327586096_ly22qb",
+      "fecha": "2026-07-17T22:32",
+      "cantidadUSDT": 30175,
+      "precioCompra": 3255,
+      "totalCOP": 98219.625,
+      "createdAt": "2026-07-17T22:33:06.096Z",
+      "createdBy": "admin"
+    },
+    "after": null,
+    "id": "aud_1784327597833_ne4koa",
+    "ts": "2026-07-17T22:33:17.833Z"
   }
 ]
