@@ -118,5 +118,11 @@
     "nombre": "LUNA",
     "externa": false,
     "comision": 0.008
+  },
+  {
+    "id": "BYD",
+    "nombre": "BYD",
+    "externa": false,
+    "comision": 0
   }
 ]
