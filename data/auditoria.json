@@ -1159,5 +1159,20 @@
     },
     "id": "aud_1787091510358_vknbjn",
     "ts": "2026-08-18T22:18:30.358Z"
+  },
+  {
+    "user": "admin",
+    "module": "clientes",
+    "action": "update",
+    "recordId": "TCL",
+    "before": {
+      "id": "CDA"
+    },
+    "after": {
+      "id": "TCL",
+      "cascaded": 0
+    },
+    "id": "aud_1787091658639_u7u1p2",
+    "ts": "2026-08-18T22:20:58.639Z"
   }
 ]
