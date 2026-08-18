@@ -1,11 +1,5 @@
 [
   {
-    "id": "CDA",
-    "nombre": "CDA",
-    "externa": false,
-    "comision": 0.008
-  },
-  {
     "id": "SONY",
     "nombre": "SONY",
     "externa": false,
