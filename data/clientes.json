@@ -12,12 +12,6 @@
     "comision": 0.018
   },
   {
-    "id": "ADDI",
-    "nombre": "ADDI",
-    "externa": false,
-    "comision": 0.008
-  },
-  {
     "id": "VELA",
     "nombre": "VELA",
     "externa": false,
