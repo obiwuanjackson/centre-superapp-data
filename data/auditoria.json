@@ -1244,5 +1244,25 @@
     },
     "id": "aud_1787091716185_7rooj7",
     "ts": "2026-08-18T22:21:56.185Z"
+  },
+  {
+    "user": "admin",
+    "module": "clientes",
+    "action": "update",
+    "recordId": "DUNA",
+    "before": {
+      "id": "DUNA",
+      "nombre": "DUNA",
+      "externa": false,
+      "comision": 0.008
+    },
+    "after": {
+      "id": "DUNA",
+      "nombre": "LUNA",
+      "externa": false,
+      "comision": 0.008
+    },
+    "id": "aud_1787091717592_lya6gc",
+    "ts": "2026-08-18T22:21:57.593Z"
   }
 ]
