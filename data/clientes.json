@@ -118,5 +118,11 @@
     "nombre": "CDA",
     "externa": false,
     "comision": 0.0025
+  },
+  {
+    "id": "PEPSI",
+    "nombre": "PEPSI",
+    "externa": false,
+    "comision": 0.008
   }
 ]
