@@ -1299,5 +1299,20 @@
     },
     "id": "aud_1787091753268_xaprv3",
     "ts": "2026-08-18T22:22:33.268Z"
+  },
+  {
+    "user": "admin",
+    "module": "clientes",
+    "action": "update",
+    "recordId": "RAPI",
+    "before": {
+      "id": "ADDI"
+    },
+    "after": {
+      "id": "RAPI",
+      "cascaded": 0
+    },
+    "id": "aud_1787091770622_7qay06",
+    "ts": "2026-08-18T22:22:50.622Z"
   }
 ]
