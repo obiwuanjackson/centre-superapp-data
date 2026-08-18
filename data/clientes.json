@@ -48,12 +48,6 @@
     "comision": 0.008
   },
   {
-    "id": "TESLA",
-    "nombre": "TESLA",
-    "externa": false,
-    "comision": 0
-  },
-  {
     "id": "AVON",
     "nombre": "AVON",
     "externa": true,
