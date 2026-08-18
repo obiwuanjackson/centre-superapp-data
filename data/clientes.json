@@ -118,5 +118,11 @@
     "nombre": "FIDO",
     "externa": false,
     "comision": 0
+  },
+  {
+    "id": "TCL",
+    "nombre": "TCL",
+    "externa": false,
+    "comision": 0.008
   }
 ]
