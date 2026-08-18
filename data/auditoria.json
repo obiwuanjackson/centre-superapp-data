@@ -1229,5 +1229,20 @@
     },
     "id": "aud_1787091694584_sl2pr9",
     "ts": "2026-08-18T22:21:34.585Z"
+  },
+  {
+    "user": "admin",
+    "module": "clientes",
+    "action": "update",
+    "recordId": "DUNA",
+    "before": {
+      "id": "LUNA"
+    },
+    "after": {
+      "id": "DUNA",
+      "cascaded": 0
+    },
+    "id": "aud_1787091716185_7rooj7",
+    "ts": "2026-08-18T22:21:56.185Z"
   }
 ]
