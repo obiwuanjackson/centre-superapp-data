@@ -12,7 +12,8 @@
     "id": "op_1787091509641_u373xp",
     "createdAt": "2026-08-18T22:18:29.641Z",
     "comisionClienteSnapshot": 0.008,
-    "comisionPagadorSnapshot": 0.0025
+    "comisionPagadorSnapshot": 0.0025,
+    "ingresosUSDT": 74000
   },
   {
     "fecha": "2026-08-18",
