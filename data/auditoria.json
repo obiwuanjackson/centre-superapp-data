@@ -1194,5 +1194,20 @@
     },
     "id": "aud_1787091660148_4dz2y4",
     "ts": "2026-08-18T22:21:00.148Z"
+  },
+  {
+    "user": "admin",
+    "module": "clientes",
+    "action": "update",
+    "recordId": "PEPSI",
+    "before": {
+      "id": "SONY"
+    },
+    "after": {
+      "id": "PEPSI",
+      "cascaded": 1
+    },
+    "id": "aud_1787091693132_fswuc9",
+    "ts": "2026-08-18T22:21:33.132Z"
   }
 ]
