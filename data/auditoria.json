@@ -1109,5 +1109,31 @@
     },
     "id": "aud_1785881312085_82neu2",
     "ts": "2026-08-04T22:08:32.085Z"
+  },
+  {
+    "user": "admin",
+    "module": "operaciones",
+    "action": "delete",
+    "recordId": "op_1784327516169_hwofea",
+    "before": {
+      "fecha": "2026-07-17T22:31",
+      "codigo": "1",
+      "pagoUSD": 70000,
+      "pv": 3255,
+      "clienteId": "PERA",
+      "pagadorId": "OTC",
+      "transcribe": true,
+      "envioPagador": true,
+      "flujo": "Venta",
+      "tipoOperacion": "Efectivo",
+      "createdBy": "admin",
+      "id": "op_1784327516169_hwofea",
+      "createdAt": "2026-07-17T22:31:56.169Z",
+      "comisionClienteSnapshot": 0.008,
+      "comisionPagadorSnapshot": 0.0025
+    },
+    "after": null,
+    "id": "aud_1787091479363_bvhq73",
+    "ts": "2026-08-18T22:17:59.363Z"
   }
 ]
