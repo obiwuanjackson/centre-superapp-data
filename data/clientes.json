@@ -118,5 +118,11 @@
     "nombre": "TESLA",
     "externa": false,
     "comision": 0
+  },
+  {
+    "id": "RAPI",
+    "nombre": "RAPI",
+    "externa": false,
+    "comision": 0.008
   }
 ]
