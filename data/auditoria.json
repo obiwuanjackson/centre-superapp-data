@@ -1314,5 +1314,25 @@
     },
     "id": "aud_1787091770622_7qay06",
     "ts": "2026-08-18T22:22:50.622Z"
+  },
+  {
+    "user": "admin",
+    "module": "clientes",
+    "action": "update",
+    "recordId": "RAPI",
+    "before": {
+      "id": "RAPI",
+      "nombre": "RAPI",
+      "externa": false,
+      "comision": 0.008
+    },
+    "after": {
+      "id": "RAPI",
+      "nombre": "ADDI",
+      "externa": false,
+      "comision": 0.008
+    },
+    "id": "aud_1787091772048_n9r99t",
+    "ts": "2026-08-18T22:22:52.048Z"
   }
 ]
