@@ -115,8 +115,8 @@
   },
   {
     "id": "TCL",
-    "nombre": "TCL",
+    "nombre": "CDA",
     "externa": false,
-    "comision": 0.008
+    "comision": 0.0025
   }
 ]
