@@ -1174,5 +1174,25 @@
     },
     "id": "aud_1787091658639_u7u1p2",
     "ts": "2026-08-18T22:20:58.639Z"
+  },
+  {
+    "user": "admin",
+    "module": "clientes",
+    "action": "update",
+    "recordId": "TCL",
+    "before": {
+      "id": "TCL",
+      "nombre": "TCL",
+      "externa": false,
+      "comision": 0.008
+    },
+    "after": {
+      "id": "TCL",
+      "nombre": "CDA",
+      "externa": false,
+      "comision": 0.0025
+    },
+    "id": "aud_1787091660148_4dz2y4",
+    "ts": "2026-08-18T22:21:00.148Z"
   }
 ]
