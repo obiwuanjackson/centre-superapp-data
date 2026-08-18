@@ -1279,5 +1279,25 @@
     },
     "id": "aud_1787091751811_5bdg8x",
     "ts": "2026-08-18T22:22:31.811Z"
+  },
+  {
+    "user": "admin",
+    "module": "clientes",
+    "action": "update",
+    "recordId": "BYD",
+    "before": {
+      "id": "BYD",
+      "nombre": "BYD",
+      "externa": false,
+      "comision": 0
+    },
+    "after": {
+      "id": "BYD",
+      "nombre": "TESLA",
+      "externa": false,
+      "comision": 0
+    },
+    "id": "aud_1787091753268_xaprv3",
+    "ts": "2026-08-18T22:22:33.268Z"
   }
 ]
