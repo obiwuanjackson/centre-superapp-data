@@ -1209,5 +1209,25 @@
     },
     "id": "aud_1787091693132_fswuc9",
     "ts": "2026-08-18T22:21:33.132Z"
+  },
+  {
+    "user": "admin",
+    "module": "clientes",
+    "action": "update",
+    "recordId": "PEPSI",
+    "before": {
+      "id": "PEPSI",
+      "nombre": "PEPSI",
+      "externa": false,
+      "comision": 0.008
+    },
+    "after": {
+      "id": "PEPSI",
+      "nombre": "SONY",
+      "externa": false,
+      "comision": 0.008
+    },
+    "id": "aud_1787091694584_sl2pr9",
+    "ts": "2026-08-18T22:21:34.585Z"
   }
 ]
