@@ -78,13 +78,13 @@
     "comisionPagadorSnapshot": 0.0025
   },
   {
-    "fecha": "2026-08-21",
+    "fecha": "2026-08-19",
     "clienteId": "RAPI",
     "ingresosUSDT": 10281,
     "pagadorId": "OTC",
-    "pagoUSD": 0,
+    "pagoUSD": 10200,
     "estado": "Con recibo",
-    "codigo": "0",
+    "codigo": "1",
     "flujo": "Propia",
     "tipoOperacion": "USDT",
     "createdBy": "admin",
