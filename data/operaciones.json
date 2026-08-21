@@ -74,6 +74,7 @@
     "id": "op_1787343163783_2w0ur0",
     "createdAt": "2026-08-21T20:12:43.783Z",
     "comisionClienteSnapshot": 0.008,
-    "comisionPagadorSnapshot": 0.0025
+    "comisionPagadorSnapshot": 0.0025,
+    "ingresosUSDT": 51300
   }
 ]
