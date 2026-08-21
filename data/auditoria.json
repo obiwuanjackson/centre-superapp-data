@@ -1687,5 +1687,45 @@
     },
     "id": "aud_1787344712286_z9800c",
     "ts": "2026-08-21T20:38:32.286Z"
+  },
+  {
+    "user": "admin",
+    "module": "operaciones",
+    "action": "update",
+    "recordId": "op_1787344215640_miockt",
+    "before": {
+      "fecha": "2026-08-21",
+      "clienteId": "RAPI",
+      "ingresosUSDT": 10281,
+      "pagadorId": "OTC",
+      "pagoUSD": 0,
+      "estado": "Con recibo",
+      "codigo": "0",
+      "flujo": "Propia",
+      "tipoOperacion": "USDT",
+      "createdBy": "admin",
+      "id": "op_1787344215640_miockt",
+      "createdAt": "2026-08-21T20:30:15.640Z",
+      "comisionClienteSnapshot": 0.008,
+      "comisionPagadorSnapshot": 0.0025
+    },
+    "after": {
+      "fecha": "2026-08-19",
+      "clienteId": "RAPI",
+      "ingresosUSDT": 10281,
+      "pagadorId": "OTC",
+      "pagoUSD": 10200,
+      "estado": "Con recibo",
+      "codigo": "1",
+      "flujo": "Propia",
+      "tipoOperacion": "USDT",
+      "createdBy": "admin",
+      "id": "op_1787344215640_miockt",
+      "createdAt": "2026-08-21T20:30:15.640Z",
+      "comisionClienteSnapshot": 0.008,
+      "comisionPagadorSnapshot": 0.0025
+    },
+    "id": "aud_1787344740154_s8bdxy",
+    "ts": "2026-08-21T20:39:00.154Z"
   }
 ]
