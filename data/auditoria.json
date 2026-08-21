@@ -1623,5 +1623,29 @@
     },
     "id": "aud_1787344475494_wowibk",
     "ts": "2026-08-21T20:34:35.494Z"
+  },
+  {
+    "user": "admin",
+    "module": "operaciones",
+    "action": "delete",
+    "recordId": "op_1787091804248_v0esan",
+    "before": {
+      "fecha": "2026-08-18",
+      "codigo": "1",
+      "pagoUSD": 10200,
+      "clienteId": "RAPI",
+      "pagadorId": "OTC",
+      "estado": "Con recibo",
+      "flujo": "Propia",
+      "tipoOperacion": "USDT",
+      "createdBy": "admin",
+      "id": "op_1787091804248_v0esan",
+      "createdAt": "2026-08-18T22:23:24.248Z",
+      "comisionClienteSnapshot": 0.008,
+      "comisionPagadorSnapshot": 0.0025
+    },
+    "after": null,
+    "id": "aud_1787344649665_uskpn2",
+    "ts": "2026-08-21T20:37:29.665Z"
   }
 ]
