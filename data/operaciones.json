@@ -17,8 +17,8 @@
   },
   {
     "fecha": "2026-08-06",
-    "codigo": "5",
-    "pagoUSD": 12800,
+    "codigo": "0",
+    "pagoUSD": 0,
     "clienteId": "PEPSI",
     "pagadorId": "OTC",
     "estado": "Con recibo",
