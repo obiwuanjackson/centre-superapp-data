@@ -91,5 +91,21 @@
     "createdAt": "2026-08-21T20:14:22.051Z",
     "comisionClienteSnapshot": 0.008,
     "comisionPagadorSnapshot": 0.0025
+  },
+  {
+    "fecha": "2026-08-21",
+    "clienteId": "RAPI",
+    "ingresosUSDT": 10281,
+    "pagadorId": "OTC",
+    "pagoUSD": 0,
+    "estado": "Con recibo",
+    "codigo": "0",
+    "flujo": "Propia",
+    "tipoOperacion": "USDT",
+    "createdBy": "admin",
+    "id": "op_1787344215640_miockt",
+    "createdAt": "2026-08-21T20:30:15.640Z",
+    "comisionClienteSnapshot": 0.008,
+    "comisionPagadorSnapshot": 0.0025
   }
 ]
