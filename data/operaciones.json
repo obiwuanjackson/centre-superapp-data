@@ -139,5 +139,20 @@
     "createdAt": "2026-08-28T20:28:18.342Z",
     "comisionClienteSnapshot": 0.008,
     "comisionPagadorSnapshot": 0.0025
+  },
+  {
+    "fecha": "2026-08-24",
+    "codigo": "7",
+    "pagoUSD": 71256,
+    "clienteId": "PEPSI",
+    "pagadorId": "OTC",
+    "estado": "Con recibo",
+    "flujo": "Propia",
+    "tipoOperacion": "USDT",
+    "createdBy": "admin",
+    "id": "op_1787948986013_h06gpl",
+    "createdAt": "2026-08-28T20:29:46.013Z",
+    "comisionClienteSnapshot": 0.008,
+    "comisionPagadorSnapshot": 0.0025
   }
 ]
