@@ -2263,5 +2263,23 @@
     },
     "id": "aud_1788306215049_5hboux",
     "ts": "2026-09-01T23:43:35.049Z"
+  },
+  {
+    "user": "admin",
+    "module": "caja",
+    "action": "create",
+    "recordId": "caja_1788306255047_1v8xvc",
+    "before": null,
+    "after": {
+      "fecha": "2026-09-01",
+      "caja": "CAJA",
+      "entradas": 0,
+      "salidas": 157500,
+      "concepto": "COMPRAS",
+      "nota": "RAPI",
+      "id": "caja_1788306255047_1v8xvc"
+    },
+    "id": "aud_1788306255880_tpbmur",
+    "ts": "2026-09-01T23:44:15.880Z"
   }
 ]
