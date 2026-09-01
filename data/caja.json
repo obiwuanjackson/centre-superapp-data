@@ -14,5 +14,14 @@
     "entradas": 74790,
     "nota": "PAGO TELA",
     "id": "caja_1788306214210_xt49ts"
+  },
+  {
+    "fecha": "2026-09-01",
+    "caja": "CAJA",
+    "entradas": 0,
+    "salidas": 157500,
+    "concepto": "COMPRAS",
+    "nota": "RAPI",
+    "id": "caja_1788306255047_1v8xvc"
   }
 ]
