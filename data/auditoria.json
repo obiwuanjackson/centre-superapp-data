@@ -2092,5 +2092,30 @@
     },
     "id": "aud_1788305522838_vdguy2",
     "ts": "2026-09-01T23:32:02.838Z"
+  },
+  {
+    "user": "admin",
+    "module": "operaciones",
+    "action": "create",
+    "recordId": "op_1788305564452_pw3kje",
+    "before": null,
+    "after": {
+      "fecha": "2026-09-01",
+      "codigo": "7",
+      "pagoUSD": 20000,
+      "clienteId": "OPO",
+      "pagadorId": "OTC",
+      "estado": "Con recibo",
+      "ingresosUSDT": 147830,
+      "flujo": "Propia",
+      "tipoOperacion": "USDT",
+      "createdBy": "admin",
+      "id": "op_1788305564452_pw3kje",
+      "createdAt": "2026-09-01T23:32:44.452Z",
+      "comisionClienteSnapshot": 0.005,
+      "comisionPagadorSnapshot": 0.0025
+    },
+    "id": "aud_1788305565325_xd1jwn",
+    "ts": "2026-09-01T23:32:45.325Z"
   }
 ]
