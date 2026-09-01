@@ -22,6 +22,7 @@
     "salidas": 157500,
     "concepto": "COMPRAS",
     "nota": "RAPI",
-    "id": "caja_1788306255047_1v8xvc"
+    "id": "caja_1788306255047_1v8xvc",
+    "clienteId": "RAPI"
   }
 ]
