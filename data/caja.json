@@ -24,5 +24,13 @@
     "nota": "RAPI",
     "id": "caja_1788306255047_1v8xvc",
     "clienteId": "RAPI"
+  },
+  {
+    "fecha": "2026-09-01",
+    "caja": "CAJA",
+    "salidas": 4000,
+    "concepto": "LIQUIDACION",
+    "nota": "LIQUIDACION PLUMA",
+    "id": "caja_1788306346755_5p2nkx"
   }
 ]
