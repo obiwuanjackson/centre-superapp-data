@@ -369,5 +369,21 @@
     "createdAt": "2026-09-01T23:34:32.065Z",
     "comisionClienteSnapshot": 0.005,
     "comisionPagadorSnapshot": 0.0025
+  },
+  {
+    "fecha": "2026-09-01",
+    "codigo": "1",
+    "pagoUSD": 35300,
+    "clienteId": "AVON",
+    "pagadorId": "OTC",
+    "estado": "Con recibo",
+    "ingresosUSDT": 86693,
+    "flujo": "Propia",
+    "tipoOperacion": "USDT",
+    "createdBy": "admin",
+    "id": "op_1788305737030_9wh19n",
+    "createdAt": "2026-09-01T23:35:37.030Z",
+    "comisionClienteSnapshot": 0.00475,
+    "comisionPagadorSnapshot": 0.0025
   }
 ]
