@@ -2117,5 +2117,43 @@
     },
     "id": "aud_1788305565325_xd1jwn",
     "ts": "2026-09-01T23:32:45.325Z"
+  },
+  {
+    "user": "admin",
+    "module": "operaciones",
+    "action": "update",
+    "recordId": "op_1788305489700_uspxa1",
+    "before": {
+      "fecha": "2026-09-01",
+      "codigo": "4",
+      "pagoUSD": 20000,
+      "clienteId": "OPO",
+      "pagadorId": "OTC",
+      "estado": "Con recibo",
+      "flujo": "Propia",
+      "tipoOperacion": "USDT",
+      "createdBy": "admin",
+      "id": "op_1788305489700_uspxa1",
+      "createdAt": "2026-09-01T23:31:29.700Z",
+      "comisionClienteSnapshot": 0.005,
+      "comisionPagadorSnapshot": 0.0025
+    },
+    "after": {
+      "fecha": "2026-09-01",
+      "codigo": "4",
+      "pagoUSD": 20020,
+      "clienteId": "OPO",
+      "pagadorId": "OTC",
+      "estado": "Con recibo",
+      "flujo": "Propia",
+      "tipoOperacion": "USDT",
+      "createdBy": "admin",
+      "id": "op_1788305489700_uspxa1",
+      "createdAt": "2026-09-01T23:31:29.700Z",
+      "comisionClienteSnapshot": 0.005,
+      "comisionPagadorSnapshot": 0.0025
+    },
+    "id": "aud_1788305606554_39sr1h",
+    "ts": "2026-09-01T23:33:26.554Z"
   }
 ]
