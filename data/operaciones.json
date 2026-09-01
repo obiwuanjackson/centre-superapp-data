@@ -293,5 +293,20 @@
     "createdAt": "2026-09-01T23:30:14.711Z",
     "comisionClienteSnapshot": 0.005,
     "comisionPagadorSnapshot": 0.0025
+  },
+  {
+    "fecha": "2026-09-01",
+    "codigo": "2",
+    "pagoUSD": 40000,
+    "pagadorId": "OTC",
+    "clienteId": "OPO",
+    "estado": "Con recibo",
+    "flujo": "Propia",
+    "tipoOperacion": "USDT",
+    "createdBy": "admin",
+    "id": "op_1788305444724_28jik6",
+    "createdAt": "2026-09-01T23:30:44.724Z",
+    "comisionClienteSnapshot": 0.005,
+    "comisionPagadorSnapshot": 0.0025
   }
 ]
