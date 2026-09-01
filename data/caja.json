@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "fecha": "2026-09-01",
+    "caja": "CAJA",
+    "clienteId": "RAPI",
+    "entradas": 85330,
+    "nota": "PAGO TELA",
+    "id": "caja_1788306182711_mdg69o"
+  }
+]
