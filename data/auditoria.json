@@ -2229,5 +2229,22 @@
     },
     "id": "aud_1788305766041_bp0q4j",
     "ts": "2026-09-01T23:36:06.041Z"
+  },
+  {
+    "user": "admin",
+    "module": "caja",
+    "action": "create",
+    "recordId": "caja_1788306182711_mdg69o",
+    "before": null,
+    "after": {
+      "fecha": "2026-09-01",
+      "caja": "CAJA",
+      "clienteId": "RAPI",
+      "entradas": 85330,
+      "nota": "PAGO TELA",
+      "id": "caja_1788306182711_mdg69o"
+    },
+    "id": "aud_1788306183539_s5qv0s",
+    "ts": "2026-09-01T23:43:03.539Z"
   }
 ]
