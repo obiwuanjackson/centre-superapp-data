@@ -2281,5 +2281,32 @@
     },
     "id": "aud_1788306255880_tpbmur",
     "ts": "2026-09-01T23:44:15.880Z"
+  },
+  {
+    "user": "admin",
+    "module": "caja",
+    "action": "update",
+    "recordId": "caja_1788306255047_1v8xvc",
+    "before": {
+      "fecha": "2026-09-01",
+      "caja": "CAJA",
+      "entradas": 0,
+      "salidas": 157500,
+      "concepto": "COMPRAS",
+      "nota": "RAPI",
+      "id": "caja_1788306255047_1v8xvc"
+    },
+    "after": {
+      "fecha": "2026-09-01",
+      "caja": "CAJA",
+      "entradas": 0,
+      "salidas": 157500,
+      "concepto": "COMPRAS",
+      "nota": "RAPI",
+      "id": "caja_1788306255047_1v8xvc",
+      "clienteId": "RAPI"
+    },
+    "id": "aud_1788306275191_vvbpq4",
+    "ts": "2026-09-01T23:44:35.191Z"
   }
 ]
