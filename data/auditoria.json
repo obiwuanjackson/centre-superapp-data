@@ -1996,5 +1996,29 @@
     },
     "id": "aud_1788215289766_rdmf5w",
     "ts": "2026-08-31T22:28:09.766Z"
+  },
+  {
+    "user": "admin",
+    "module": "operaciones",
+    "action": "create",
+    "recordId": "op_1788305414711_rm5ct0",
+    "before": null,
+    "after": {
+      "fecha": "2026-09-01",
+      "codigo": "1",
+      "pagoUSD": 20000,
+      "clienteId": "OPO",
+      "pagadorId": "OTC",
+      "estado": "Con recibo",
+      "flujo": "Propia",
+      "tipoOperacion": "USDT",
+      "createdBy": "admin",
+      "id": "op_1788305414711_rm5ct0",
+      "createdAt": "2026-09-01T23:30:14.711Z",
+      "comisionClienteSnapshot": 0.005,
+      "comisionPagadorSnapshot": 0.0025
+    },
+    "id": "aud_1788305415663_xgpluw",
+    "ts": "2026-09-01T23:30:15.663Z"
   }
 ]
