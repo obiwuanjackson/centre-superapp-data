@@ -312,7 +312,7 @@
   {
     "fecha": "2026-09-01",
     "codigo": "4",
-    "pagoUSD": 20000,
+    "pagoUSD": 20020,
     "clienteId": "OPO",
     "pagadorId": "OTC",
     "estado": "Con recibo",
