@@ -2308,5 +2308,22 @@
     },
     "id": "aud_1788306275191_vvbpq4",
     "ts": "2026-09-01T23:44:35.191Z"
+  },
+  {
+    "user": "admin",
+    "module": "caja",
+    "action": "create",
+    "recordId": "caja_1788306346755_5p2nkx",
+    "before": null,
+    "after": {
+      "fecha": "2026-09-01",
+      "caja": "CAJA",
+      "salidas": 4000,
+      "concepto": "LIQUIDACION",
+      "nota": "LIQUIDACION PLUMA",
+      "id": "caja_1788306346755_5p2nkx"
+    },
+    "id": "aud_1788306347615_6tcrfq",
+    "ts": "2026-09-01T23:45:47.615Z"
   }
 ]
