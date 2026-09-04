@@ -526,22 +526,6 @@
   },
   {
     "fecha": "2026-09-04",
-    "codigo": "0",
-    "pagoUSD": 0,
-    "clienteId": "PEPSI",
-    "pagadorId": "OTC",
-    "ingresosUSDT": 39997,
-    "estado": "Con recibo",
-    "flujo": "Propia",
-    "tipoOperacion": "USDT",
-    "createdBy": "admin",
-    "id": "op_1788558274972_zchyt9",
-    "createdAt": "2026-09-04T21:44:34.972Z",
-    "comisionClienteSnapshot": 0.008,
-    "comisionPagadorSnapshot": 0.0025
-  },
-  {
-    "fecha": "2026-09-04",
     "codigo": "11",
     "pagoUSD": 47853,
     "clienteId": "PEPSI",
