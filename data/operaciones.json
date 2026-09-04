@@ -555,5 +555,21 @@
     "createdAt": "2026-09-04T21:45:38.621Z",
     "comisionClienteSnapshot": 0.008,
     "comisionPagadorSnapshot": 0.0025
+  },
+  {
+    "fecha": "2026-09-04",
+    "codigo": "12",
+    "pagoUSD": 45502,
+    "clienteId": "PEPSI",
+    "pagadorId": "OTC",
+    "ingresosUSDT": 75000,
+    "estado": "Con recibo",
+    "flujo": "Propia",
+    "tipoOperacion": "USDT",
+    "createdBy": "admin",
+    "id": "op_1788558401372_vtvncy",
+    "createdAt": "2026-09-04T21:46:41.372Z",
+    "comisionClienteSnapshot": 0.008,
+    "comisionPagadorSnapshot": 0.0025
   }
 ]
