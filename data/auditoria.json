@@ -2747,5 +2747,25 @@
     },
     "id": "aud_1789512559847_jhtk8i",
     "ts": "2026-09-15T22:49:19.847Z"
+  },
+  {
+    "user": "admin",
+    "module": "clientes",
+    "action": "update",
+    "recordId": "AXA",
+    "before": {
+      "id": "AXA",
+      "nombre": "AXA",
+      "externa": false,
+      "comision": 0.008
+    },
+    "after": {
+      "id": "AXA",
+      "nombre": "EMA",
+      "externa": false,
+      "comision": 0.008
+    },
+    "id": "aud_1789512561459_gpiqzk",
+    "ts": "2026-09-15T22:49:21.459Z"
   }
 ]
