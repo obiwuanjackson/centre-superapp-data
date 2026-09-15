@@ -618,5 +618,20 @@
     "createdAt": "2026-09-08T22:43:13.360Z",
     "comisionClienteSnapshot": 0.008,
     "comisionPagadorSnapshot": 0.0025
+  },
+  {
+    "fecha": "2026-09-15",
+    "clienteId": "AXA",
+    "pagadorId": "OTC",
+    "codigo": "1",
+    "pagoUSD": 10000,
+    "estado": "Con recibo",
+    "flujo": "Propia",
+    "tipoOperacion": "USDT",
+    "createdBy": "admin",
+    "id": "op_1789512758079_7m1sqt",
+    "createdAt": "2026-09-15T22:52:38.079Z",
+    "comisionClienteSnapshot": 0.008,
+    "comisionPagadorSnapshot": 0.0025
   }
 ]
