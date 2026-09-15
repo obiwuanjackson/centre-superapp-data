@@ -118,5 +118,11 @@
     "nombre": "ADDI",
     "externa": false,
     "comision": 0.008
+  },
+  {
+    "id": "AXA",
+    "nombre": "AXA",
+    "externa": false,
+    "comision": 0.008
   }
 ]
