@@ -2767,5 +2767,29 @@
     },
     "id": "aud_1789512561459_gpiqzk",
     "ts": "2026-09-15T22:49:21.459Z"
+  },
+  {
+    "user": "admin",
+    "module": "operaciones",
+    "action": "create",
+    "recordId": "op_1789512758079_7m1sqt",
+    "before": null,
+    "after": {
+      "fecha": "2026-09-15",
+      "clienteId": "AXA",
+      "pagadorId": "OTC",
+      "codigo": "1",
+      "pagoUSD": 10000,
+      "estado": "Con recibo",
+      "flujo": "Propia",
+      "tipoOperacion": "USDT",
+      "createdBy": "admin",
+      "id": "op_1789512758079_7m1sqt",
+      "createdAt": "2026-09-15T22:52:38.079Z",
+      "comisionClienteSnapshot": 0.008,
+      "comisionPagadorSnapshot": 0.0025
+    },
+    "id": "aud_1789512758851_16vpjb",
+    "ts": "2026-09-15T22:52:38.851Z"
   }
 ]
