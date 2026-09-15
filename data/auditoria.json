@@ -2732,5 +2732,20 @@
     },
     "id": "aud_1789512472234_2oqqbd",
     "ts": "2026-09-15T22:47:52.234Z"
+  },
+  {
+    "user": "admin",
+    "module": "clientes",
+    "action": "update",
+    "recordId": "AXA",
+    "before": {
+      "id": "HBO"
+    },
+    "after": {
+      "id": "AXA",
+      "cascaded": 0
+    },
+    "id": "aud_1789512559847_jhtk8i",
+    "ts": "2026-09-15T22:49:19.847Z"
   }
 ]
