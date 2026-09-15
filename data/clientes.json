@@ -1,11 +1,5 @@
 [
   {
-    "id": "HBO",
-    "nombre": "HBO",
-    "externa": false,
-    "comision": 0.008
-  },
-  {
     "id": "PLANTA",
     "nombre": "PLANTA",
     "externa": false,
