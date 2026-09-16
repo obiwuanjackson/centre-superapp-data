@@ -24,12 +24,6 @@
     "comision": 0.016
   },
   {
-    "id": "OPO",
-    "nombre": "OPO",
-    "externa": true,
-    "comision": 0.005
-  },
-  {
     "id": "META",
     "nombre": "META",
     "externa": false,
