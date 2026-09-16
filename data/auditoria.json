@@ -2806,5 +2806,25 @@
     },
     "id": "aud_1789571344917_o7r2qy",
     "ts": "2026-09-16T15:09:04.917Z"
+  },
+  {
+    "user": "admin",
+    "module": "clientes",
+    "action": "update",
+    "recordId": "NKD",
+    "before": {
+      "id": "NKD",
+      "nombre": "NKD",
+      "externa": true,
+      "comision": 0.005
+    },
+    "after": {
+      "id": "NKD",
+      "nombre": "NKD",
+      "externa": true,
+      "comision": 0.005
+    },
+    "id": "aud_1789571346773_jw5cz6",
+    "ts": "2026-09-16T15:09:06.773Z"
   }
 ]
