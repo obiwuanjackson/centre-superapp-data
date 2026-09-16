@@ -118,5 +118,11 @@
     "nombre": "EMA",
     "externa": false,
     "comision": 0.008
+  },
+  {
+    "id": "NKD",
+    "nombre": "NKD",
+    "externa": true,
+    "comision": 0.005
   }
 ]
