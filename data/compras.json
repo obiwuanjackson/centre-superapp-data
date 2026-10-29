@@ -7,5 +7,14 @@
     "totalCOP": 158309.865,
     "createdAt": "2026-10-29T23:29:06.278Z",
     "createdBy": "admin"
+  },
+  {
+    "id": "compra_1793317220175_uzvi4k",
+    "fecha": "2026-10-29T23:38",
+    "cantidadUSDT": 110647,
+    "precioCompra": 3135,
+    "totalCOP": 346878.345,
+    "createdAt": "2026-10-29T23:40:20.175Z",
+    "createdBy": "admin"
   }
 ]
