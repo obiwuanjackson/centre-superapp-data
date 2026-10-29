@@ -46,8 +46,8 @@
   },
   {
     "clienteId": "DUNA",
-    "codigo": "16350",
-    "pagoUSD": 4,
+    "codigo": "4",
+    "pagoUSD": 16350,
     "estado": "Con recibo",
     "fecha": "2026-10-21",
     "pagadorId": "OTC",
