@@ -28,5 +28,20 @@
     "createdAt": "2026-10-29T23:08:51.716Z",
     "comisionClienteSnapshot": 0.008,
     "comisionPagadorSnapshot": 0.0025
+  },
+  {
+    "clienteId": "DUNA",
+    "codigo": "13528",
+    "pagoUSD": 3,
+    "estado": "Con recibo",
+    "fecha": "2026-10-21",
+    "pagadorId": "OTC",
+    "flujo": "Propia",
+    "tipoOperacion": "Efectivo",
+    "createdBy": "admin",
+    "id": "op_1793315900486_fvkhao",
+    "createdAt": "2026-10-29T23:18:20.486Z",
+    "comisionClienteSnapshot": 0.008,
+    "comisionPagadorSnapshot": 0.0025
   }
 ]
