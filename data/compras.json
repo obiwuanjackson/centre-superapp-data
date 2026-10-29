@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": "compra_1793316546278_1jyea6",
+    "fecha": "2026-10-21T15:29",
+    "cantidadUSDT": 50337,
+    "precioCompra": 3145,
+    "totalCOP": 158309.865,
+    "createdAt": "2026-10-29T23:29:06.278Z",
+    "createdBy": "admin"
+  }
+]
