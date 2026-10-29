@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "fecha": "2026-10-20",
+    "codigo": "1",
+    "pagoUSD": 7736,
+    "clienteId": "DUNA",
+    "pagadorId": "OTC",
+    "estado": "Con recibo",
+    "flujo": "Propia",
+    "tipoOperacion": "Efectivo",
+    "createdBy": "admin",
+    "id": "op_1793315227303_8rzgn6",
+    "createdAt": "2026-10-29T23:07:07.303Z",
+    "comisionClienteSnapshot": 0.008,
+    "comisionPagadorSnapshot": 0.0025
+  }
+]
