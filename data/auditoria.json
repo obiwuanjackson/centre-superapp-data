@@ -46,5 +46,29 @@
     },
     "id": "aud_1793315333022_oaa7w5",
     "ts": "2026-10-29T23:08:53.022Z"
+  },
+  {
+    "user": "admin",
+    "module": "operaciones",
+    "action": "create",
+    "recordId": "op_1793315900486_fvkhao",
+    "before": null,
+    "after": {
+      "clienteId": "DUNA",
+      "codigo": "13528",
+      "pagoUSD": 3,
+      "estado": "Con recibo",
+      "fecha": "2026-10-21",
+      "pagadorId": "OTC",
+      "flujo": "Propia",
+      "tipoOperacion": "Efectivo",
+      "createdBy": "admin",
+      "id": "op_1793315900486_fvkhao",
+      "createdAt": "2026-10-29T23:18:20.486Z",
+      "comisionClienteSnapshot": 0.008,
+      "comisionPagadorSnapshot": 0.0025
+    },
+    "id": "aud_1793315901624_9dv9wg",
+    "ts": "2026-10-29T23:18:21.624Z"
   }
 ]
