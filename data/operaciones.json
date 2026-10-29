@@ -103,5 +103,20 @@
     "createdAt": "2026-10-29T23:32:18.766Z",
     "comisionClienteSnapshot": 0.008,
     "comisionPagadorSnapshot": 0.0025
+  },
+  {
+    "codigo": "3",
+    "clienteId": "BYD",
+    "pagoUSD": 32000,
+    "estado": "Con recibo",
+    "fecha": "2026-10-28",
+    "pagadorId": "OTC",
+    "flujo": "Propia",
+    "tipoOperacion": "Efectivo",
+    "createdBy": "admin",
+    "id": "op_1793317058358_3tfsaj",
+    "createdAt": "2026-10-29T23:37:38.358Z",
+    "comisionClienteSnapshot": 0,
+    "comisionPagadorSnapshot": 0.0025
   }
 ]
