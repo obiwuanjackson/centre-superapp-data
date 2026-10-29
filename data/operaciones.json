@@ -31,8 +31,8 @@
   },
   {
     "clienteId": "DUNA",
-    "codigo": "13528",
-    "pagoUSD": 3,
+    "codigo": "3",
+    "pagoUSD": 13528,
     "estado": "Con recibo",
     "fecha": "2026-10-21",
     "pagadorId": "OTC",
