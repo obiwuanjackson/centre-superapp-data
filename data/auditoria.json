@@ -94,5 +94,43 @@
     },
     "id": "aud_1793315907273_tr7ssv",
     "ts": "2026-10-29T23:18:27.273Z"
+  },
+  {
+    "user": "admin",
+    "module": "operaciones",
+    "action": "update",
+    "recordId": "op_1793315900486_fvkhao",
+    "before": {
+      "clienteId": "DUNA",
+      "codigo": "13528",
+      "pagoUSD": 3,
+      "estado": "Con recibo",
+      "fecha": "2026-10-21",
+      "pagadorId": "OTC",
+      "flujo": "Propia",
+      "tipoOperacion": "Efectivo",
+      "createdBy": "admin",
+      "id": "op_1793315900486_fvkhao",
+      "createdAt": "2026-10-29T23:18:20.486Z",
+      "comisionClienteSnapshot": 0.008,
+      "comisionPagadorSnapshot": 0.0025
+    },
+    "after": {
+      "clienteId": "DUNA",
+      "codigo": "3",
+      "pagoUSD": 13528,
+      "estado": "Con recibo",
+      "fecha": "2026-10-21",
+      "pagadorId": "OTC",
+      "flujo": "Propia",
+      "tipoOperacion": "Efectivo",
+      "createdBy": "admin",
+      "id": "op_1793315900486_fvkhao",
+      "createdAt": "2026-10-29T23:18:20.486Z",
+      "comisionClienteSnapshot": 0.008,
+      "comisionPagadorSnapshot": 0.0025
+    },
+    "id": "aud_1793315942423_bd5tn5",
+    "ts": "2026-10-29T23:19:02.423Z"
   }
 ]
