@@ -332,5 +332,29 @@
     },
     "id": "aud_1793317074117_4zc27u",
     "ts": "2026-10-29T23:37:54.117Z"
+  },
+  {
+    "user": "admin",
+    "module": "operaciones",
+    "action": "create",
+    "recordId": "op_1793317076016_dffwba",
+    "before": null,
+    "after": {
+      "clienteId": "VELA",
+      "codigo": "6",
+      "pagoUSD": 10000,
+      "estado": "Con recibo",
+      "fecha": "2026-10-28",
+      "pagadorId": "OTC",
+      "flujo": "Propia",
+      "tipoOperacion": "Efectivo",
+      "createdBy": "admin",
+      "id": "op_1793317076016_dffwba",
+      "createdAt": "2026-10-29T23:37:56.017Z",
+      "comisionClienteSnapshot": 0.008,
+      "comisionPagadorSnapshot": 0.0025
+    },
+    "id": "aud_1793317077192_lld69z",
+    "ts": "2026-10-29T23:37:57.192Z"
   }
 ]
