@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "user": "admin",
+    "module": "operaciones",
+    "action": "create",
+    "recordId": "op_1793315227303_8rzgn6",
+    "before": null,
+    "after": {
+      "fecha": "2026-10-20",
+      "codigo": "1",
+      "pagoUSD": 7736,
+      "clienteId": "DUNA",
+      "pagadorId": "OTC",
+      "estado": "Con recibo",
+      "flujo": "Propia",
+      "tipoOperacion": "Efectivo",
+      "createdBy": "admin",
+      "id": "op_1793315227303_8rzgn6",
+      "createdAt": "2026-10-29T23:07:07.303Z",
+      "comisionClienteSnapshot": 0.008,
+      "comisionPagadorSnapshot": 0.0025
+    },
+    "id": "aud_1793315228655_beyo8x",
+    "ts": "2026-10-29T23:07:08.655Z"
+  }
+]
