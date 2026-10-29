@@ -133,5 +133,20 @@
     "createdAt": "2026-10-29T23:37:42.221Z",
     "comisionClienteSnapshot": 0.008,
     "comisionPagadorSnapshot": 0.0025
+  },
+  {
+    "codigo": "5",
+    "pagoUSD": 25000,
+    "clienteId": "VELA",
+    "estado": "Con recibo",
+    "fecha": "2026-10-28",
+    "pagadorId": "OTC",
+    "flujo": "Propia",
+    "tipoOperacion": "Efectivo",
+    "createdBy": "admin",
+    "id": "op_1793317072800_7yl7tf",
+    "createdAt": "2026-10-29T23:37:52.800Z",
+    "comisionClienteSnapshot": 0.008,
+    "comisionPagadorSnapshot": 0.0025
   }
 ]
