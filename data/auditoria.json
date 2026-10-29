@@ -374,5 +374,43 @@
     },
     "id": "aud_1793317221198_6kf4gr",
     "ts": "2026-10-29T23:40:21.198Z"
+  },
+  {
+    "user": "admin",
+    "module": "operaciones",
+    "action": "update",
+    "recordId": "op_1793317062221_cgdr8i",
+    "before": {
+      "codigo": "4",
+      "clienteId": "VELA",
+      "pagoUSD": 150000,
+      "estado": "Con recibo",
+      "fecha": "2026-10-28",
+      "pagadorId": "OTC",
+      "flujo": "Propia",
+      "tipoOperacion": "Efectivo",
+      "createdBy": "admin",
+      "id": "op_1793317062221_cgdr8i",
+      "createdAt": "2026-10-29T23:37:42.221Z",
+      "comisionClienteSnapshot": 0.008,
+      "comisionPagadorSnapshot": 0.0025
+    },
+    "after": {
+      "codigo": "4",
+      "clienteId": "VELA",
+      "pagoUSD": 15000,
+      "estado": "Con recibo",
+      "fecha": "2026-10-28",
+      "pagadorId": "OTC",
+      "flujo": "Propia",
+      "tipoOperacion": "Efectivo",
+      "createdBy": "admin",
+      "id": "op_1793317062221_cgdr8i",
+      "createdAt": "2026-10-29T23:37:42.221Z",
+      "comisionClienteSnapshot": 0.008,
+      "comisionPagadorSnapshot": 0.0025
+    },
+    "id": "aud_1793317863979_8ghin6",
+    "ts": "2026-10-29T23:51:03.979Z"
   }
 ]
