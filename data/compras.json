@@ -16,5 +16,14 @@
     "totalCOP": 346878.345,
     "createdAt": "2026-10-29T23:40:20.175Z",
     "createdBy": "admin"
+  },
+  {
+    "id": "compra_1793318846315_u1jec9",
+    "fecha": "2026-10-29T12:06",
+    "cantidadUSDT": 12113,
+    "precioCompra": 3120,
+    "totalCOP": 37792.56,
+    "createdAt": "2026-10-30T00:07:26.315Z",
+    "createdBy": "admin"
   }
 ]
