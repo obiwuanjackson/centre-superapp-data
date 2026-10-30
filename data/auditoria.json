@@ -902,5 +902,23 @@
       "comisionClienteSnapshot": 0.008,
       "comisionPagadorSnapshot": 0.005
     }
+  },
+  {
+    "user": "admin",
+    "module": "compras",
+    "action": "create",
+    "recordId": "compra_1793319345557_p3ubgu",
+    "before": null,
+    "after": {
+      "id": "compra_1793319345557_p3ubgu",
+      "fecha": "2026-10-30T00:14",
+      "cantidadUSDT": 16431,
+      "precioCompra": 3120,
+      "totalCOP": 51264.72,
+      "createdAt": "2026-10-30T00:15:45.557Z",
+      "createdBy": "admin"
+    },
+    "id": "aud_1793319346724_o8z7pm",
+    "ts": "2026-10-30T00:15:46.724Z"
   }
 ]
