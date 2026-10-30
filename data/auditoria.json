@@ -448,5 +448,23 @@
     },
     "id": "aud_1793319089342_pciscl",
     "ts": "2026-10-30T00:11:29.342Z"
+  },
+  {
+    "user": "admin",
+    "module": "pagadores",
+    "action": "update",
+    "recordId": "OTC",
+    "before": {
+      "id": "OTC",
+      "nombre": "OTC",
+      "comision": 0.005
+    },
+    "after": {
+      "id": "OTC",
+      "nombre": "OTC",
+      "comision": 0.005
+    },
+    "id": "aud_1793319091645_1u5jne",
+    "ts": "2026-10-30T00:11:31.645Z"
   }
 ]
