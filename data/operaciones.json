@@ -12,7 +12,7 @@
     "id": "op_1793315227303_8rzgn6",
     "createdAt": "2026-10-29T23:07:07.303Z",
     "comisionClienteSnapshot": 0.008,
-    "comisionPagadorSnapshot": 0.0025
+    "comisionPagadorSnapshot": 0.005
   },
   {
     "fecha": "2026-10-20",
@@ -27,7 +27,7 @@
     "id": "op_1793315331716_dco2g1",
     "createdAt": "2026-10-29T23:08:51.716Z",
     "comisionClienteSnapshot": 0.008,
-    "comisionPagadorSnapshot": 0.0025
+    "comisionPagadorSnapshot": 0.005
   },
   {
     "clienteId": "DUNA",
@@ -42,7 +42,7 @@
     "id": "op_1793315900486_fvkhao",
     "createdAt": "2026-10-29T23:18:20.486Z",
     "comisionClienteSnapshot": 0.008,
-    "comisionPagadorSnapshot": 0.0025
+    "comisionPagadorSnapshot": 0.005
   },
   {
     "clienteId": "DUNA",
@@ -57,7 +57,7 @@
     "id": "op_1793315906198_b6x49a",
     "createdAt": "2026-10-29T23:18:26.198Z",
     "comisionClienteSnapshot": 0.008,
-    "comisionPagadorSnapshot": 0.0025
+    "comisionPagadorSnapshot": 0.005
   },
   {
     "clienteId": "DUNA",
@@ -72,7 +72,7 @@
     "id": "op_1793316634113_f9tz7k",
     "createdAt": "2026-10-29T23:30:34.113Z",
     "comisionClienteSnapshot": 0.008,
-    "comisionPagadorSnapshot": 0.0025
+    "comisionPagadorSnapshot": 0.005
   },
   {
     "clienteId": "BYD",
@@ -87,7 +87,7 @@
     "id": "op_1793316730982_qnndz3",
     "createdAt": "2026-10-29T23:32:10.982Z",
     "comisionClienteSnapshot": 0,
-    "comisionPagadorSnapshot": 0.0025
+    "comisionPagadorSnapshot": 0.005
   },
   {
     "clienteId": "DUNA",
@@ -102,7 +102,7 @@
     "id": "op_1793316738766_1jpoj8",
     "createdAt": "2026-10-29T23:32:18.766Z",
     "comisionClienteSnapshot": 0.008,
-    "comisionPagadorSnapshot": 0.0025
+    "comisionPagadorSnapshot": 0.005
   },
   {
     "codigo": "3",
@@ -117,7 +117,7 @@
     "id": "op_1793317058358_3tfsaj",
     "createdAt": "2026-10-29T23:37:38.358Z",
     "comisionClienteSnapshot": 0,
-    "comisionPagadorSnapshot": 0.0025
+    "comisionPagadorSnapshot": 0.005
   },
   {
     "codigo": "4",
@@ -132,7 +132,7 @@
     "id": "op_1793317062221_cgdr8i",
     "createdAt": "2026-10-29T23:37:42.221Z",
     "comisionClienteSnapshot": 0.008,
-    "comisionPagadorSnapshot": 0.0025
+    "comisionPagadorSnapshot": 0.005
   },
   {
     "codigo": "5",
@@ -147,7 +147,7 @@
     "id": "op_1793317072800_7yl7tf",
     "createdAt": "2026-10-29T23:37:52.800Z",
     "comisionClienteSnapshot": 0.008,
-    "comisionPagadorSnapshot": 0.0025
+    "comisionPagadorSnapshot": 0.005
   },
   {
     "clienteId": "VELA",
@@ -162,6 +162,6 @@
     "id": "op_1793317076016_dffwba",
     "createdAt": "2026-10-29T23:37:56.017Z",
     "comisionClienteSnapshot": 0.008,
-    "comisionPagadorSnapshot": 0.0025
+    "comisionPagadorSnapshot": 0.005
   }
 ]
