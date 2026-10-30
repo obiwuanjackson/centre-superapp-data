@@ -25,5 +25,14 @@
     "totalCOP": 37792.56,
     "createdAt": "2026-10-30T00:07:26.315Z",
     "createdBy": "admin"
+  },
+  {
+    "id": "compra_1793319345557_p3ubgu",
+    "fecha": "2026-10-30T00:14",
+    "cantidadUSDT": 16431,
+    "precioCompra": 3120,
+    "totalCOP": 51264.72,
+    "createdAt": "2026-10-30T00:15:45.557Z",
+    "createdBy": "admin"
   }
 ]
