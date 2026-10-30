@@ -2,7 +2,7 @@
   {
     "id": "OTC",
     "nombre": "OTC",
-    "comision": 0.0025
+    "comision": 0.005
   },
   {
     "id": "Propia",
