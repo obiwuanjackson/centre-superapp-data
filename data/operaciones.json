@@ -313,7 +313,8 @@
     "id": "op_1793914502847_fjb4o0",
     "createdAt": "2026-11-05T21:35:02.847Z",
     "comisionClienteSnapshot": 0.008,
-    "comisionPagadorSnapshot": 0.005
+    "comisionPagadorSnapshot": 0.005,
+    "ingresosUSDT": 30000
   },
   {
     "codigo": "4",
