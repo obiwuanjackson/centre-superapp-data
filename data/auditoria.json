@@ -1886,5 +1886,23 @@
     },
     "id": "aud_1793921592395_1mur2s",
     "ts": "2026-11-05T23:33:12.395Z"
+  },
+  {
+    "user": "admin",
+    "module": "pagadores",
+    "action": "update",
+    "recordId": "OTC",
+    "before": {
+      "id": "OTC",
+      "nombre": "OTC",
+      "comision": 0
+    },
+    "after": {
+      "id": "OTC",
+      "nombre": "OTC",
+      "comision": 0
+    },
+    "id": "aud_1793921597756_ge62pu",
+    "ts": "2026-11-05T23:33:17.756Z"
   }
 ]
