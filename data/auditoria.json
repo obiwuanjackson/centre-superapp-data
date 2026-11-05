@@ -1245,5 +1245,30 @@
     },
     "id": "aud_1793914579244_rd38tb",
     "ts": "2026-11-05T21:36:19.244Z"
+  },
+  {
+    "user": "admin",
+    "module": "operaciones",
+    "action": "create",
+    "recordId": "op_1793914791675_rwq691",
+    "before": null,
+    "after": {
+      "codigo": "5",
+      "pagoUSD": 52367,
+      "clienteId": "PEPSI",
+      "ingresosUSDT": 50752.8,
+      "estado": "Con recibo",
+      "fecha": "2026-10-29",
+      "pagadorId": "OTC",
+      "flujo": "Propia",
+      "tipoOperacion": "USDT",
+      "createdBy": "admin",
+      "id": "op_1793914791675_rwq691",
+      "createdAt": "2026-11-05T21:39:51.675Z",
+      "comisionClienteSnapshot": 0.008,
+      "comisionPagadorSnapshot": 0.005
+    },
+    "id": "aud_1793914792935_hh0py8",
+    "ts": "2026-11-05T21:39:52.935Z"
   }
 ]
