@@ -422,5 +422,20 @@
     "createdAt": "2026-11-05T21:40:03.437Z",
     "comisionClienteSnapshot": 0.008,
     "comisionPagadorSnapshot": 0.005
+  },
+  {
+    "codigo": "10",
+    "pagoUSD": 18790,
+    "estado": "Con recibo",
+    "clienteId": "PEPSI",
+    "fecha": "2026-10-29",
+    "pagadorId": "OTC",
+    "flujo": "Propia",
+    "tipoOperacion": "USDT",
+    "createdBy": "admin",
+    "id": "op_1793914805989_xloh5g",
+    "createdAt": "2026-11-05T21:40:05.989Z",
+    "comisionClienteSnapshot": 0.008,
+    "comisionPagadorSnapshot": 0.005
   }
 ]
