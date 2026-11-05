@@ -34,5 +34,14 @@
     "totalCOP": 51264.72,
     "createdAt": "2026-10-30T00:15:45.557Z",
     "createdBy": "admin"
+  },
+  {
+    "id": "compra_1793913787757_hut7nw",
+    "fecha": "2026-11-03T09:21",
+    "cantidadUSDT": 107250,
+    "precioCompra": 3200,
+    "totalCOP": 343200,
+    "createdAt": "2026-11-05T21:23:07.757Z",
+    "createdBy": "admin"
   }
 ]
