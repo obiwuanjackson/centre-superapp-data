@@ -1868,5 +1868,41 @@
     },
     "id": "aud_1793917558290_xtwxjv",
     "ts": "2026-11-05T22:25:58.290Z"
+  },
+  {
+    "user": "admin",
+    "module": "pagadores",
+    "action": "update",
+    "recordId": "OTC",
+    "before": {
+      "id": "OTC",
+      "nombre": "OTC",
+      "comision": 0.005
+    },
+    "after": {
+      "id": "OTC",
+      "nombre": "OTC",
+      "comision": 0
+    },
+    "id": "aud_1793921588559_3ovbbq",
+    "ts": "2026-11-05T23:33:08.559Z"
+  },
+  {
+    "user": "admin",
+    "module": "pagadores",
+    "action": "update",
+    "recordId": "OTC",
+    "before": {
+      "id": "OTC",
+      "nombre": "OTC",
+      "comision": 0
+    },
+    "after": {
+      "id": "OTC",
+      "nombre": "OTC",
+      "comision": 0
+    },
+    "id": "aud_1793921589758_3wc0eo",
+    "ts": "2026-11-05T23:33:09.758Z"
   }
 ]
