@@ -208,5 +208,20 @@
     "createdAt": "2026-11-05T21:12:58.137Z",
     "comisionClienteSnapshot": 0.008,
     "comisionPagadorSnapshot": 0.005
+  },
+  {
+    "clienteId": "JBL",
+    "codigo": "10",
+    "pagoUSD": 49980,
+    "estado": "Con recibo",
+    "fecha": "2026-11-05",
+    "pagadorId": "OTC",
+    "flujo": "Propia",
+    "tipoOperacion": "Efectivo",
+    "createdBy": "admin",
+    "id": "op_1793913283802_oa3ans",
+    "createdAt": "2026-11-05T21:14:43.802Z",
+    "comisionClienteSnapshot": 0.011,
+    "comisionPagadorSnapshot": 0.005
   }
 ]
