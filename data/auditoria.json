@@ -1877,15 +1877,15 @@
     "before": {
       "id": "OTC",
       "nombre": "OTC",
-      "comision": 0
+      "comision": 0.005
     },
     "after": {
       "id": "OTC",
       "nombre": "OTC",
       "comision": 0
     },
-    "id": "aud_1793921592395_1mur2s",
-    "ts": "2026-11-05T23:33:12.395Z"
+    "id": "aud_1793921588559_3ovbbq",
+    "ts": "2026-11-05T23:33:08.559Z"
   },
   {
     "user": "admin",
@@ -1902,7 +1902,25 @@
       "nombre": "OTC",
       "comision": 0
     },
-    "id": "aud_1793921597756_ge62pu",
-    "ts": "2026-11-05T23:33:17.756Z"
+    "id": "aud_1793921589758_3wc0eo",
+    "ts": "2026-11-05T23:33:09.758Z"
+  },
+  {
+    "user": "admin",
+    "module": "pagadores",
+    "action": "update",
+    "recordId": "OTC",
+    "before": {
+      "id": "OTC",
+      "nombre": "OTC",
+      "comision": 0
+    },
+    "after": {
+      "id": "OTC",
+      "nombre": "OTC",
+      "comision": 0
+    },
+    "id": "aud_1793921594618_ob5bh6",
+    "ts": "2026-11-05T23:33:14.618Z"
   }
 ]
