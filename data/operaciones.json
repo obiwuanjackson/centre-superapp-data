@@ -329,7 +329,8 @@
     "id": "op_1793914506050_9cjypc",
     "createdAt": "2026-11-05T21:35:06.050Z",
     "comisionClienteSnapshot": 0.008,
-    "comisionPagadorSnapshot": 0.005
+    "comisionPagadorSnapshot": 0.005,
+    "ingresosUSDT": 55226.5
   },
   {
     "codigo": "5",
