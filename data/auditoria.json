@@ -968,5 +968,29 @@
     },
     "id": "aud_1793913176036_4ctny5",
     "ts": "2026-11-05T21:12:56.036Z"
+  },
+  {
+    "user": "admin",
+    "module": "operaciones",
+    "action": "create",
+    "recordId": "op_1793913178137_bn5m33",
+    "before": null,
+    "after": {
+      "clienteId": "VELA",
+      "codigo": "9",
+      "pagoUSD": 74031,
+      "estado": "Con recibo",
+      "fecha": "2026-10-30",
+      "pagadorId": "OTC",
+      "flujo": "Propia",
+      "tipoOperacion": "Efectivo",
+      "createdBy": "admin",
+      "id": "op_1793913178137_bn5m33",
+      "createdAt": "2026-11-05T21:12:58.137Z",
+      "comisionClienteSnapshot": 0.008,
+      "comisionPagadorSnapshot": 0.005
+    },
+    "id": "aud_1793913179322_4gpte1",
+    "ts": "2026-11-05T21:12:59.322Z"
   }
 ]
