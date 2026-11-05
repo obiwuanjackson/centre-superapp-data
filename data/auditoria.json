@@ -1034,5 +1034,23 @@
     },
     "id": "aud_1793913789033_vgu7fq",
     "ts": "2026-11-05T21:23:09.033Z"
+  },
+  {
+    "user": "admin",
+    "module": "compras",
+    "action": "create",
+    "recordId": "compra_1793913922227_kx5x5w",
+    "before": null,
+    "after": {
+      "id": "compra_1793913922227_kx5x5w",
+      "fecha": "2026-11-04T21:22",
+      "cantidadUSDT": 27198.5,
+      "precioCompra": 3180,
+      "totalCOP": 86491.23,
+      "createdAt": "2026-11-05T21:25:22.227Z",
+      "createdBy": "admin"
+    },
+    "id": "aud_1793913923809_s4xhj4",
+    "ts": "2026-11-05T21:25:23.809Z"
   }
 ]
